@@ -16,6 +16,8 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ynacif31&layout=compact)
+
 ## Sistemas Operacionais
 <div style="display: inline_block">
 <img align="center" alt="macos" src="https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white" />
