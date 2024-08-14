@@ -22,4 +22,6 @@
 <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div><br/>
 
+![Ynacif31 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ynacif31&show_icons=true&theme=radical)
+
 Apaixonado por tecnologia, em busca de poder me aperfeiçoar e ser o melhor profissional que eu puder ser.
