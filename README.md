@@ -21,8 +21,8 @@
 
 ## Sistemas Operacionais
 <div style="display: inline_block">
-<img align="center" alt="macos" src="https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white" />
-<img align="center" alt="windows" src="https://img.shields.io/badge/Windows-ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img align="center" alt="macos" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
+<img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div><br/>
 
 ![Ynacif31 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ynacif31&show_icons=true&theme=radical)
