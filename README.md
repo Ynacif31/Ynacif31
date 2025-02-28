@@ -38,6 +38,11 @@
 
 ---
 
+## ✨ Sobre Mim  
+
+Apaixonado por tecnologia, em busca de constante aperfeiçoamento para ser o melhor profissional que eu puder ser.  
+
+
 ### 📊 Estatísticas
 
 <p>
@@ -57,11 +62,4 @@
   />
 
 </p>
-
----
-
-## ✨ Sobre Mim  
-
-Apaixonado por tecnologia, em busca de constante aperfeiçoamento para ser o melhor profissional que eu puder ser.  
-
 
